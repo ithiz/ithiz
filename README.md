@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.gif" alt="Futuristic Banner" width="720" />
 </p>
 
-<h1 align="center">👾 Hi, I'm <span style="color:#8a2be2;">John Doe</span> — The Futuristic Developer 👾</h1>
+<h1 align="center">👾 Hi, I'm <span style="color:#8a2be2;">Dithin</span> — The Futuristic Developer 👾</h1>
 
 <p align="center">
   <em>🚀 Pushing the boundaries of coding & creativity in the digital universe.<br>
