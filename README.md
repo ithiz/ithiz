@@ -1,7 +1,7 @@
 <!-- 🌌 Welcome to Dithin's Multiverse -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFBF&vCenter=true&width=450&lines=Hey+I'm+Dithin+👨‍💻;BCA+Student+from+Kerala,+India!;Welcome+to+my+code+world+🌍" alt="Typing SVG" />
+   
 </h1>
 
 <p align="center">
